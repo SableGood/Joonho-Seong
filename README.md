@@ -1,1 +1,1 @@
-# Joonho-Seong
+# 승자트리 구현
